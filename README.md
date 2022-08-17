@@ -9,3 +9,6 @@
 
 - https://code4fukui.github.io/jihanki/
 
+## 参考
+
+- JPEG写真データのEXIFから緯度経度を取り出すライブラリ [EXIF.js](https://github.com/taisukef/exif-js) 使用 (参考 [csv-map.js](https://code4fukui.github.io/csv-map/csv-map.js))
