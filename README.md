@@ -13,7 +13,8 @@
 
 ## サンプルアプリ
 
-- https://code4fukui.github.io/jihanki/
+- [自販機マップ](https://code4fukui.github.io/jihanki/)
+- [メガネストリート沿いの自販機マップ](https://code4fukui.github.io/jihanki/meganestreet.html)
 
 ## 参考
 
