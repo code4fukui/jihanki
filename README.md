@@ -6,6 +6,11 @@
 - 写真データ [img/](img/) 写真フォーマット縦長 横幅1024px
 - アイコンデータ [icon/](icon/) 写真フォーマット縦長 横幅122px
 
+## 貢献の仕方
+
+- 写真への位置情報を追加を「ON」にして、自販機の写真を撮って、[Issues](https://github.com/code4fukui/jihanki/issues) へアップまたはプルリクください！
+- より使いやすいアプリへのアイデアをください [Issues](https://github.com/code4fukui/jihanki/issues)
+
 ## サンプルアプリ
 
 - https://code4fukui.github.io/jihanki/
