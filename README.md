@@ -4,6 +4,7 @@
 
 - CSVデータ [https://code4fukui.github.io/jihanki/jihanki.csv](https://code4fukui.github.io/jihanki/jihanki.csv)
 - 写真データ [img/](img/) 写真フォーマット縦長 横幅1024px
+- アイコンデータ [icon/](icon/) 写真フォーマット縦長 横幅122px
 
 ## サンプルアプリ
 
