@@ -21,4 +21,4 @@ for (const fn of fns) {
     lng: ll.lng.toFixed(6),
   })
 }
-await Deno.writeTextFile("jihanki0.csv", CSV.stringify(data));
+await Deno.writeTextFile("jihanki.csv", CSV.stringify(data));
