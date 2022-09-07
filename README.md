@@ -6,6 +6,12 @@
 - 写真データ [img/](img/) 写真フォーマット縦長 横幅1024px
 - アイコンデータ [icon/](icon/) 写真フォーマット縦長 横幅122px
 
+## データ追加方法
+
+1. 位置情報付き写真を img/ におく (幅1024px)
+2. サムネイル(幅122px)を icon/ におく
+3. `deno run -A makecsv.js` を実行
+
 ## 貢献の仕方
 
 - 写真への位置情報を追加を「ON」にして、自販機の写真を撮って、[Issues](https://github.com/code4fukui/jihanki/issues) へアップまたはプルリクください！
