@@ -22,8 +22,8 @@
 以下のURLから直接データにアクセスできます。
 
 - **CSVデータ:** [https://code4fukui.github.io/jihanki/jihanki.csv](https://code4fukui.github.io/jihanki/jihanki.csv)
-- **写真データ:** [img/](img/)（ホスト先: `https://code4fukui.github.io/jihanki/img/`）
-- **アイコンデータ:** [icon/](icon/)（ホスト先: `https://code4fukui.github.io/jihanki/icon/`）
+- **写真データ:** [img/](img/)（ホスト先: `https://github.com/code4fukui/jihanki）
+- **アイコンデータ:** [icon/](icon/)（ホスト先: `https://github.com/code4fukui/jihanki）
 
 ### 例: JavaScriptでのデータ取得
 

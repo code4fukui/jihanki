@@ -24,8 +24,8 @@ A project to crowdsource and provide open data of vending machines in Japan. The
 You can access the data directly via the following URLs.
 
 - **CSV Data:** [https://code4fukui.github.io/jihanki/jihanki.csv](https://code4fukui.github.io/jihanki/jihanki.csv)
-- **Photo Data:** [img/](img/) (Hosted at `https://code4fukui.github.io/jihanki/img/`)
-- **Icon Data:** [icon/](icon/) (Hosted at `https://code4fukui.github.io/jihanki/icon/`)
+- **Photo Data:** [img/](img/) (Hosted at `https://github.com/code4fukui/jihanki)
+- **Icon Data:** [icon/](icon/) (Hosted at `https://github.com/code4fukui/jihanki)
 
 ### Example: Fetching Data in JavaScript
 
